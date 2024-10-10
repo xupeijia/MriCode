@@ -6,7 +6,7 @@ Lv = calOneThirdLv(y,fs,fc);
 % Lv = calOneThirdLv2(y,fs,fc);
 
 % 辐射指数
-% fcd = (0.5*sqrt(3))*fc;用fcd对应标准里的表格可得到logDelta
+% fcd = (0.5*sqrt(3))*fc;用fcd对应标准里的表格可得到logSigma
 logSigma = [-21 -17 -16 -13 -10 -8 -4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0];
 % 面积指数
 s = 0.75*pi;
